@@ -67,7 +67,7 @@
 - For Part II:
   - Append the NumPy Array (predicted values) to the original dataset to compare and evaluate how much the sales would be in 2023.
   - Make another visual analysis in order to manage the new insights.
-  - Create a new simulation including the cost of the visibility improvement, where maybe not all product types require the improvement.
+  - Create a new simulation including the cost of the visibility improvement, where maybe not all product types require the improvement after the append.
 
 ## Limitations
 - Not having access to the data administrator made us infer and play with the data in a way that maybe is not factible.
