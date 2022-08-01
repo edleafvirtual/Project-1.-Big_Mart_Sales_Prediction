@@ -1,7 +1,7 @@
 ![](https://www.leafwebstudio.com/wp-content/uploads/2022/07/png-20.png)
 
 ## Big Mart Sales Prediction
-#### The Big Mart Sales Practice Problem is an exercise that is part of Coding Dojo: Data Science Bootcamp.
+#### The Big Mart Sales Practice Problem is an exercise that is part of Coding Dojo: Data Science Bootcamp, where I'm trying to show how Industrial Engineering and Data Science would live together when we want to improve business process/KPI performances.
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
 
 ## Author
