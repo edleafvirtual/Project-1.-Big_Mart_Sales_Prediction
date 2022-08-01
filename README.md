@@ -45,7 +45,7 @@
       - Outlet_Type.
 
 ## Outcome
-### Insights from Part I:
+### Insights from [Part I](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "Part I"):
 - We decided to plot a Pareto analysis in order to determine the product types that Big Mart sells more, to have a better idea about the possible impact in the results.
 ![pareto](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P1-pareto.png "pareto")
 
@@ -55,16 +55,16 @@
 - The visibility index is a feature that we identified as a variable that could be improved in order to increase sales, so we decided to compare the improvement with two stores that possibly will open in 2023.
 ![strategy](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P1-strategy.png "strategy")
 
-### Insights from Part II:
+### Insights from [Part II](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20II:%20sales_prediction2023_(ML).ipynb "Part II"):
 - We built a Linear Regression and Random Forest in order to evaluate and determine which model should be considered for our Machine Learning. 
 - As the table below shows, Random Forest is the model recommended.
 ![regression](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P2-reg-comp.png "regression")
 
 ## Recomendations
-- For Part I:
+- For [Part I](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "Part I"):
   - As Section 8.2.1. shows in the [notebook](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "notebook"), we recommend finishing the code in order to determine how much the visibility index increase per store and product type. That way our recommendation would be more realistic than assuming the index increase 20% in total.
   - After the modification, is important to check the Pareto again in order to keep the focus point displayed throughout the case study.
-- For Part II:
+- For [Part II](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20II:%20sales_prediction2023_(ML).ipynb "Part II"):
   - Append the NumPy Array (predicted values) to the original dataset to compare and evaluate how much the sales would be in 2023.
   - Make another visual analysis in order to manage the new insights.
   - Create a new simulation including the cost of the visibility improvement, where maybe not all product types require the improvement after the append.
