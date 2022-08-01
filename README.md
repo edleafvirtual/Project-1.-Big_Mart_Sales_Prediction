@@ -62,7 +62,7 @@
 
 ## Recomendations
 - For [Part I](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "Part I"):
-  - As Section 8.2.1. shows in the [notebook](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "notebook"), we recommend finishing the code in order to determine how much the visibility index increase per store and product type. That way our recommendation would be more realistic than assuming the index increase 20% in total.
+  - As Section 8.2.1. shows in the notebook, we recommend finishing the code in order to determine how much the visibility index increase per store and product type. That way our recommendation would be more realistic than assuming the index increase 20% in total.
   - After the modification, is important to check the Pareto again in order to keep the focus point displayed throughout the case study.
 - For [Part II](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20II:%20sales_prediction2023_(ML).ipynb "Part II"):
   - Append the NumPy Array (predicted values) to the original dataset to compare and evaluate how much the sales would be in 2023.
