@@ -1,4 +1,4 @@
-![](https://www.leafwebstudio.com/wp-content/uploads/2022/07/png-20.png)
+![Header](https://github.com/edleafvirtual/Big_Mart_Sales_Prediction_for_2023/blob/main/Big%20Mart%20Sales%20Banner%20(1050%20%C3%97%20150%20px).png "Header")
 
 ## Big Mart Sales Prediction
 #### The Big Mart Sales Practice Problem is an exercise that is part of Coding Dojo: Data Science Bootcamp, where I'm trying to show how Industrial Engineering and Data Science would live together when we want to improve business process/KPI performances.
