@@ -47,18 +47,18 @@
 ## Outcome
 ### Insights from [Part I](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "Part I"):
 - We decided to plot a Pareto analysis in order to determine the product types that Big Mart sells more, to have a better idea about the possible impact in the results.
-![pareto](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P1-pareto.png "pareto")
+![Pareto](https://github.com/edleafvirtual/Big_Mart_Sales_Prediction_for_2023/blob/main/P1%20pareto.png "Pareto")
 
 - Keeping the focus on the visibility index, we plot the relationship between this index and sales.
-![sales vs visibility index](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P1-sales.png "sales vs visibility index")
+![Sales and Volume](https://github.com/edleafvirtual/Big_Mart_Sales_Prediction_for_2023/blob/main/P1%20sales.png "Sales and Volume")
 
 - The visibility index is a feature that we identified as a variable that could be improved in order to increase sales, so we decided to compare the improvement with two stores that possibly will open in 2023.
-![strategy](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P1-strategy.png "strategy")
+![Sale per Strategy](https://github.com/edleafvirtual/Big_Mart_Sales_Prediction_for_2023/blob/main/P1%20strategy.png "Sale per Strategy")
 
 ### Insights from [Part II](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20II:%20sales_prediction2023_(ML).ipynb "Part II"):
 - We built a Linear Regression and Random Forest in order to evaluate and determine which model should be considered for our Machine Learning. 
 - As the table below shows, Random Forest is the model recommended.
-![regression](https://www.leafwebstudio.com/wp-content/uploads/2022/07/P2-reg-comp.png "regression")
+![Regression](https://github.com/edleafvirtual/Big_Mart_Sales_Prediction_for_2023/blob/main/P2%20reg%20comp.png "Regression")
 
 ## Recomendations
 - For [Part I](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "Part I"):
